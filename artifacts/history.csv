@@ -1,0 +1,1331 @@
+Medicine_ID,Medicine_Name,Week_Start,Units_Sold,Category,Dosage_Form,Unit_Price_INR
+M01,Digital thermometer,2024-12-30,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-01-06,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-01-13,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-01-20,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-01-27,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-02-03,1,Monitoring device,Device,150
+M01,Digital thermometer,2025-02-10,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-02-17,2,Monitoring device,Device,150
+M01,Digital thermometer,2025-02-24,6,Monitoring device,Device,150
+M01,Digital thermometer,2025-03-03,1,Monitoring device,Device,150
+M01,Digital thermometer,2025-03-10,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-03-17,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-03-24,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-03-31,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-04-07,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-04-14,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-04-21,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-04-28,10,Monitoring device,Device,150
+M01,Digital thermometer,2025-05-05,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-05-12,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-05-19,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-05-26,3,Monitoring device,Device,150
+M01,Digital thermometer,2025-06-02,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-06-09,1,Monitoring device,Device,150
+M01,Digital thermometer,2025-06-16,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-06-23,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-06-30,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-07-07,2,Monitoring device,Device,150
+M01,Digital thermometer,2025-07-14,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-07-21,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-07-28,4,Monitoring device,Device,150
+M01,Digital thermometer,2025-08-04,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-08-11,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-08-18,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-08-25,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-09-01,2,Monitoring device,Device,150
+M01,Digital thermometer,2025-09-08,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-09-15,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-09-22,5,Monitoring device,Device,150
+M01,Digital thermometer,2025-09-29,3,Monitoring device,Device,150
+M01,Digital thermometer,2025-10-06,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-10-13,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-10-20,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-10-27,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-11-03,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-11-10,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-11-17,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-11-24,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-12-01,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-12-08,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-12-15,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-12-22,0,Monitoring device,Device,150
+M01,Digital thermometer,2025-12-29,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-01-05,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-01-12,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-01-19,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-01-26,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-02-02,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-02-09,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-02-16,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-02-23,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-03-02,1,Monitoring device,Device,150
+M01,Digital thermometer,2026-03-09,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-03-16,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-03-23,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-03-30,5,Monitoring device,Device,150
+M01,Digital thermometer,2026-04-06,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-04-13,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-04-20,1,Monitoring device,Device,150
+M01,Digital thermometer,2026-04-27,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-05-04,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-05-11,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-05-18,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-05-25,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-06-01,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-06-08,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-06-15,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-06-22,3,Monitoring device,Device,150
+M01,Digital thermometer,2026-06-29,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-07-06,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-07-13,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-07-20,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-07-27,4,Monitoring device,Device,150
+M01,Digital thermometer,2026-08-03,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-08-10,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-08-17,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-08-24,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-08-31,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-09-07,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-09-14,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-09-21,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-09-28,1,Monitoring device,Device,150
+M01,Digital thermometer,2026-10-05,2,Monitoring device,Device,150
+M01,Digital thermometer,2026-10-12,0,Monitoring device,Device,150
+M01,Digital thermometer,2026-10-19,1,Monitoring device,Device,150
+M02,Dolo 650 tablets,2024-12-30,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-01-06,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-01-13,10,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-01-20,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-01-27,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-02-03,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-02-10,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-02-17,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-02-24,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-03-03,10,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-03-10,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-03-17,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-03-24,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-03-31,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-04-07,5,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-04-14,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-04-21,6,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-04-28,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-05-05,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-05-12,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-05-19,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-05-26,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-06-02,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-06-09,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-06-16,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-06-23,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-06-30,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-07-07,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-07-14,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-07-21,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-07-28,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-08-04,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-08-11,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-08-18,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-08-25,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-09-01,7,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-09-08,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-09-15,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-09-22,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-09-29,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-10-06,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-10-13,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-10-20,5,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-10-27,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-11-03,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-11-10,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-11-17,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-11-24,11,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-12-01,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-12-08,10,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-12-15,5,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-12-22,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2025-12-29,5,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-01-05,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-01-12,6,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-01-19,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-01-26,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-02-02,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-02-09,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-02-16,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-02-23,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-03-02,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-03-09,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-03-16,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-03-23,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-03-30,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-04-06,9,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-04-13,5,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-04-20,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-04-27,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-05-04,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-05-11,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-05-18,11,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-05-25,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-06-01,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-06-08,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-06-15,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-06-22,9,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-06-29,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-07-06,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-07-13,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-07-20,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-07-27,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-08-03,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-08-10,4,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-08-17,2,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-08-24,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-08-31,1,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-09-07,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-09-14,3,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-09-21,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-09-28,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-10-05,7,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-10-12,0,Fever/pain relief,Tablet,30
+M02,Dolo 650 tablets,2026-10-19,0,Fever/pain relief,Tablet,30
+M03,Electrolyte oral solution,2024-12-30,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-01-06,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-01-13,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-01-20,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-01-27,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-02-03,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-02-10,5,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-02-17,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-02-24,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-03-03,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-03-10,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-03-17,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-03-24,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-03-31,5,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-04-07,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-04-14,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-04-21,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-04-28,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-05-05,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-05-12,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-05-19,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-05-26,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-06-02,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-06-09,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-06-16,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-06-23,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-06-30,5,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-07-07,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-07-14,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-07-21,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-07-28,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-08-04,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-08-11,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-08-18,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-08-25,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-09-01,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-09-08,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-09-15,5,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-09-22,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-09-29,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-10-06,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-10-13,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-10-20,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-10-27,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-11-03,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-11-10,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-11-17,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-11-24,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-12-01,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-12-08,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-12-15,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-12-22,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2025-12-29,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-01-05,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-01-12,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-01-19,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-01-26,8,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-02-02,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-02-09,13,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-02-16,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-02-23,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-03-02,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-03-09,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-03-16,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-03-23,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-03-30,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-04-06,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-04-13,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-04-20,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-04-27,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-05-04,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-05-11,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-05-18,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-05-25,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-06-01,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-06-08,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-06-15,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-06-22,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-06-29,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-07-06,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-07-13,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-07-20,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-07-27,4,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-08-03,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-08-10,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-08-17,1,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-08-24,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-08-31,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-09-07,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-09-14,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-09-21,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-09-28,2,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-10-05,3,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-10-12,0,Hydration support,Liquid/Powder,30
+M03,Electrolyte oral solution,2026-10-19,1,Hydration support,Liquid/Powder,30
+M04,Low-osmolarity ORS sachet,2024-12-30,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-01-06,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-01-13,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-01-20,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-01-27,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-02-03,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-02-10,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-02-17,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-02-24,6,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-03-03,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-03-10,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-03-17,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-03-24,9,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-03-31,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-04-07,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-04-14,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-04-21,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-04-28,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-05-05,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-05-12,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-05-19,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-05-26,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-06-02,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-06-09,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-06-16,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-06-23,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-06-30,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-07-07,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-07-14,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-07-21,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-07-28,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-08-04,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-08-11,7,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-08-18,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-08-25,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-09-01,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-09-08,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-09-15,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-09-22,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-09-29,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-10-06,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-10-13,6,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-10-20,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-10-27,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-11-03,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-11-10,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-11-17,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-11-24,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-12-01,7,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-12-08,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-12-15,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-12-22,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2025-12-29,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-01-05,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-01-12,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-01-19,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-01-26,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-02-02,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-02-09,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-02-16,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-02-23,7,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-03-02,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-03-09,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-03-16,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-03-23,7,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-03-30,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-04-06,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-04-13,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-04-20,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-04-27,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-05-04,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-05-11,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-05-18,4,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-05-25,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-06-01,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-06-08,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-06-15,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-06-22,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-06-29,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-07-06,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-07-13,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-07-20,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-07-27,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-08-03,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-08-10,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-08-17,3,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-08-24,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-08-31,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-09-07,5,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-09-14,1,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-09-21,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-09-28,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-10-05,0,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-10-12,2,Oral rehydration,Sachet,25
+M04,Low-osmolarity ORS sachet,2026-10-19,1,Oral rehydration,Sachet,25
+M05,Multivitamin tablets,2024-12-30,2,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-01-06,11,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-01-13,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-01-20,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-01-27,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-02-03,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-02-10,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-02-17,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-02-24,5,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-03-03,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-03-10,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-03-17,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-03-24,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-03-31,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-04-07,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-04-14,2,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-04-21,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-04-28,2,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-05-05,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-05-12,2,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-05-19,2,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-05-26,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-06-02,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-06-09,10,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-06-16,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-06-23,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-06-30,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-07-07,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-07-14,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-07-21,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-07-28,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-08-04,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-08-11,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-08-18,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-08-25,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-09-01,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-09-08,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-09-15,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-09-22,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-09-29,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-10-06,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-10-13,3,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-10-20,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-10-27,3,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-11-03,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-11-10,10,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-11-17,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-11-24,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-12-01,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-12-08,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-12-15,4,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-12-22,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2025-12-29,3,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-01-05,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-01-12,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-01-19,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-01-26,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-02-02,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-02-09,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-02-16,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-02-23,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-03-02,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-03-09,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-03-16,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-03-23,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-03-30,3,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-04-06,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-04-13,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-04-20,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-04-27,2,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-05-04,10,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-05-11,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-05-18,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-05-25,4,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-06-01,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-06-08,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-06-15,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-06-22,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-06-29,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-07-06,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-07-13,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-07-20,4,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-07-27,4,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-08-03,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-08-10,6,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-08-17,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-08-24,6,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-08-31,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-09-07,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-09-14,1,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-09-21,3,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-09-28,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-10-05,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-10-12,0,Supplement/supportive care,Tablet,45
+M05,Multivitamin tablets,2026-10-19,0,Supplement/supportive care,Tablet,45
+M06,ORS sachet,2024-12-30,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-01-06,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-01-13,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-01-20,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-01-27,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-02-03,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-02-10,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-02-17,6,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-02-24,10,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-03-03,8,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-03-10,6,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-03-17,21,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-03-24,7,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-03-31,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-04-07,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-04-14,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-04-21,13,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-04-28,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-05-05,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-05-12,8,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-05-19,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-05-26,6,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-06-02,12,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-06-09,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-06-16,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-06-23,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-06-30,6,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-07-07,15,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-07-14,12,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-07-21,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-07-28,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-08-04,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-08-11,5,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-08-18,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-08-25,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-09-01,5,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-09-08,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-09-15,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-09-22,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-09-29,8,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-10-06,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-10-13,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-10-20,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-10-27,19,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-11-03,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-11-10,8,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-11-17,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-11-24,13,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-12-01,14,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-12-08,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-12-15,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-12-22,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2025-12-29,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-01-05,7,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-01-12,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-01-19,2,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-01-26,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-02-02,14,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-02-09,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-02-16,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-02-23,19,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-03-02,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-03-09,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-03-16,7,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-03-23,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-03-30,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-04-06,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-04-13,9,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-04-20,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-04-27,7,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-05-04,5,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-05-11,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-05-18,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-05-25,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-06-01,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-06-08,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-06-15,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-06-22,8,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-06-29,6,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-07-06,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-07-13,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-07-20,5,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-07-27,9,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-08-03,15,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-08-10,12,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-08-17,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-08-24,9,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-08-31,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-09-07,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-09-14,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-09-21,3,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-09-28,0,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-10-05,4,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-10-12,1,Oral rehydration,Sachet,22
+M06,ORS sachet,2026-10-19,2,Oral rehydration,Sachet,22
+M07,Ondansetron 4 mg tablets,2024-12-30,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-01-06,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-01-13,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-01-20,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-01-27,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-02-03,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-02-10,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-02-17,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-02-24,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-03-03,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-03-10,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-03-17,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-03-24,2,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-03-31,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-04-07,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-04-14,4,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-04-21,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-04-28,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-05-05,10,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-05-12,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-05-19,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-05-26,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-06-02,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-06-09,4,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-06-16,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-06-23,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-06-30,4,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-07-07,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-07-14,6,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-07-21,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-07-28,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-08-04,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-08-11,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-08-18,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-08-25,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-09-01,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-09-08,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-09-15,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-09-22,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-09-29,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-10-06,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-10-13,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-10-20,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-10-27,3,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-11-03,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-11-10,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-11-17,2,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-11-24,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-12-01,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-12-08,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-12-15,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-12-22,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2025-12-29,4,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-01-05,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-01-12,2,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-01-19,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-01-26,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-02-02,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-02-09,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-02-16,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-02-23,3,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-03-02,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-03-09,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-03-16,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-03-23,2,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-03-30,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-04-06,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-04-13,2,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-04-20,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-04-27,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-05-04,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-05-11,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-05-18,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-05-25,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-06-01,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-06-08,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-06-15,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-06-22,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-06-29,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-07-06,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-07-13,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-07-20,2,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-07-27,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-08-03,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-08-10,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-08-17,1,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-08-24,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-08-31,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-09-07,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-09-14,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-09-21,6,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-09-28,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-10-05,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-10-12,0,Clinician-directed,Tablet,30
+M07,Ondansetron 4 mg tablets,2026-10-19,0,Clinician-directed,Tablet,30
+M08,Paracetamol 500 mg tablets,2024-12-30,7,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-01-06,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-01-13,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-01-20,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-01-27,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-02-03,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-02-10,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-02-17,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-02-24,14,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-03-03,10,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-03-10,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-03-17,9,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-03-24,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-03-31,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-04-07,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-04-14,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-04-21,5,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-04-28,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-05-05,6,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-05-12,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-05-19,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-05-26,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-06-02,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-06-09,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-06-16,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-06-23,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-06-30,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-07-07,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-07-14,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-07-21,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-07-28,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-08-04,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-08-11,7,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-08-18,10,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-08-25,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-09-01,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-09-08,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-09-15,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-09-22,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-09-29,5,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-10-06,5,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-10-13,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-10-20,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-10-27,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-11-03,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-11-10,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-11-17,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-11-24,11,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-12-01,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-12-08,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-12-15,19,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-12-22,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2025-12-29,5,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-01-05,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-01-12,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-01-19,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-01-26,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-02-02,5,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-02-09,10,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-02-16,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-02-23,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-03-02,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-03-09,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-03-16,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-03-23,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-03-30,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-04-06,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-04-13,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-04-20,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-04-27,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-05-04,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-05-11,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-05-18,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-05-25,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-06-01,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-06-08,1,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-06-15,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-06-22,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-06-29,8,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-07-06,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-07-13,5,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-07-20,4,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-07-27,7,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-08-03,7,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-08-10,12,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-08-17,6,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-08-24,9,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-08-31,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-09-07,0,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-09-14,2,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-09-21,6,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-09-28,3,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-10-05,12,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-10-12,10,Fever/pain relief,Tablet,15
+M08,Paracetamol 500 mg tablets,2026-10-19,3,Fever/pain relief,Tablet,15
+M09,Paracetamol 650 mg tablets,2024-12-30,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-01-06,7,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-01-13,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-01-20,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-01-27,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-02-03,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-02-10,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-02-17,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-02-24,9,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-03-03,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-03-10,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-03-17,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-03-24,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-03-31,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-04-07,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-04-14,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-04-21,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-04-28,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-05-05,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-05-12,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-05-19,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-05-26,7,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-06-02,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-06-09,9,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-06-16,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-06-23,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-06-30,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-07-07,8,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-07-14,10,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-07-21,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-07-28,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-08-04,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-08-11,7,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-08-18,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-08-25,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-09-01,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-09-08,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-09-15,10,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-09-22,6,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-09-29,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-10-06,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-10-13,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-10-20,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-10-27,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-11-03,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-11-10,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-11-17,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-11-24,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-12-01,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-12-08,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-12-15,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-12-22,6,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2025-12-29,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-01-05,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-01-12,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-01-19,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-01-26,8,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-02-02,17,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-02-09,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-02-16,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-02-23,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-03-02,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-03-09,7,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-03-16,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-03-23,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-03-30,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-04-06,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-04-13,10,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-04-20,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-04-27,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-05-04,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-05-11,6,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-05-18,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-05-25,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-06-01,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-06-08,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-06-15,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-06-22,4,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-06-29,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-07-06,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-07-13,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-07-20,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-07-27,12,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-08-03,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-08-10,10,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-08-17,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-08-24,5,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-08-31,0,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-09-07,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-09-14,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-09-21,11,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-09-28,3,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-10-05,1,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-10-12,2,Fever/pain relief,Tablet,22
+M09,Paracetamol 650 mg tablets,2026-10-19,5,Fever/pain relief,Tablet,22
+M10,Paracetamol oral suspension 120 mg/5 mL,2024-12-30,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-01-06,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-01-13,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-01-20,3,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-01-27,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-02-03,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-02-10,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-02-17,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-02-24,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-03-03,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-03-10,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-03-17,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-03-24,2,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-03-31,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-04-07,2,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-04-14,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-04-21,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-04-28,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-05-05,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-05-12,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-05-19,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-05-26,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-06-02,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-06-09,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-06-16,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-06-23,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-06-30,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-07-07,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-07-14,4,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-07-21,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-07-28,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-08-04,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-08-11,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-08-18,5,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-08-25,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-09-01,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-09-08,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-09-15,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-09-22,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-09-29,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-10-06,4,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-10-13,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-10-20,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-10-27,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-11-03,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-11-10,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-11-17,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-11-24,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-12-01,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-12-08,3,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-12-15,2,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-12-22,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2025-12-29,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-01-05,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-01-12,6,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-01-19,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-01-26,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-02-02,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-02-09,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-02-16,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-02-23,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-03-02,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-03-09,4,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-03-16,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-03-23,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-03-30,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-04-06,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-04-13,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-04-20,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-04-27,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-05-04,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-05-11,2,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-05-18,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-05-25,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-06-01,3,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-06-08,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-06-15,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-06-22,1,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-06-29,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-07-06,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-07-13,2,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-07-20,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-07-27,5,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-08-03,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-08-10,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-08-17,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-08-24,10,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-08-31,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-09-07,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-09-14,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-09-21,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-09-28,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-10-05,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-10-12,0,Fever/pain relief,Suspension,42
+M10,Paracetamol oral suspension 120 mg/5 mL,2026-10-19,0,Fever/pain relief,Suspension,42
+M11,Ready-to-drink oral rehydration solution,2024-12-30,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-01-06,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-01-13,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-01-20,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-01-27,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-02-03,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-02-10,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-02-17,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-02-24,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-03-03,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-03-10,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-03-17,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-03-24,8,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-03-31,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-04-07,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-04-14,5,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-04-21,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-04-28,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-05-05,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-05-12,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-05-19,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-05-26,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-06-02,2,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-06-09,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-06-16,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-06-23,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-06-30,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-07-07,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-07-14,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-07-21,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-07-28,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-08-04,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-08-11,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-08-18,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-08-25,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-09-01,12,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-09-08,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-09-15,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-09-22,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-09-29,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-10-06,13,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-10-13,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-10-20,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-10-27,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-11-03,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-11-10,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-11-17,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-11-24,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-12-01,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-12-08,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-12-15,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-12-22,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2025-12-29,9,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-01-05,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-01-12,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-01-19,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-01-26,2,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-02-02,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-02-09,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-02-16,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-02-23,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-03-02,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-03-09,7,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-03-16,2,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-03-23,2,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-03-30,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-04-06,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-04-13,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-04-20,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-04-27,6,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-05-04,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-05-11,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-05-18,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-05-25,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-06-01,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-06-08,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-06-15,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-06-22,5,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-06-29,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-07-06,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-07-13,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-07-20,2,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-07-27,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-08-03,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-08-10,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-08-17,4,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-08-24,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-08-31,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-09-07,5,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-09-14,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-09-21,3,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-09-28,1,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-10-05,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-10-12,0,Oral rehydration,Liquid/Powder,35
+M11,Ready-to-drink oral rehydration solution,2026-10-19,3,Oral rehydration,Liquid/Powder,35
+M12,Sealed drinking water bottle,2024-12-30,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-01-06,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-01-13,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-01-20,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-01-27,3,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-02-03,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-02-10,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-02-17,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-02-24,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-03-03,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-03-10,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-03-17,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-03-24,1,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-03-31,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-04-07,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-04-14,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-04-21,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-04-28,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-05-05,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-05-12,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-05-19,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-05-26,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-06-02,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-06-09,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-06-16,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-06-23,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-06-30,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-07-07,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-07-14,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-07-21,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-07-28,4,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-08-04,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-08-11,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-08-18,2,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-08-25,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-09-01,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-09-08,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-09-15,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-09-22,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-09-29,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-10-06,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-10-13,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-10-20,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-10-27,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-11-03,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-11-10,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-11-17,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-11-24,2,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-12-01,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-12-08,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-12-15,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-12-22,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2025-12-29,1,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-01-05,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-01-12,2,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-01-19,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-01-26,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-02-02,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-02-09,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-02-16,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-02-23,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-03-02,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-03-09,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-03-16,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-03-23,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-03-30,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-04-06,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-04-13,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-04-20,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-04-27,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-05-04,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-05-11,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-05-18,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-05-25,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-06-01,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-06-08,1,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-06-15,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-06-22,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-06-29,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-07-06,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-07-13,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-07-20,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-07-27,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-08-03,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-08-10,2,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-08-17,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-08-24,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-08-31,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-09-07,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-09-14,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-09-21,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-09-28,2,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-10-05,0,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-10-12,2,Hydration support,Beverage,20
+M12,Sealed drinking water bottle,2026-10-19,0,Hydration support,Beverage,20
+M13,Vitamin C tablets,2024-12-30,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-01-06,8,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-01-13,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-01-20,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-01-27,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-02-03,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-02-10,3,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-02-17,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-02-24,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-03-03,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-03-10,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-03-17,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-03-24,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-03-31,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-04-07,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-04-14,10,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-04-21,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-04-28,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-05-05,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-05-12,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-05-19,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-05-26,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-06-02,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-06-09,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-06-16,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-06-23,4,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-06-30,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-07-07,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-07-14,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-07-21,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-07-28,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-08-04,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-08-11,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-08-18,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-08-25,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-09-01,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-09-08,2,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-09-15,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-09-22,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-09-29,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-10-06,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-10-13,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-10-20,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-10-27,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-11-03,2,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-11-10,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-11-17,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-11-24,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-12-01,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-12-08,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-12-15,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-12-22,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2025-12-29,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-01-05,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-01-12,2,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-01-19,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-01-26,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-02-02,2,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-02-09,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-02-16,2,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-02-23,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-03-02,10,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-03-09,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-03-16,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-03-23,3,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-03-30,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-04-06,4,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-04-13,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-04-20,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-04-27,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-05-04,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-05-11,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-05-18,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-05-25,2,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-06-01,4,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-06-08,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-06-15,4,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-06-22,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-06-29,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-07-06,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-07-13,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-07-20,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-07-27,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-08-03,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-08-10,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-08-17,3,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-08-24,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-08-31,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-09-07,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-09-14,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-09-21,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-09-28,3,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-10-05,0,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-10-12,1,Supplement/supportive care,Tablet,35
+M13,Vitamin C tablets,2026-10-19,0,Supplement/supportive care,Tablet,35
+M14,Zinc tablets,2024-12-30,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-01-06,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-01-13,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-01-20,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-01-27,2,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-02-03,2,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-02-10,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-02-17,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-02-24,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-03-03,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-03-10,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-03-17,13,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-03-24,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-03-31,1,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-04-07,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-04-14,9,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-04-21,2,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-04-28,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-05-05,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-05-12,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-05-19,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-05-26,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-06-02,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-06-09,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-06-16,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-06-23,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-06-30,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-07-07,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-07-14,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-07-21,5,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-07-28,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-08-04,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-08-11,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-08-18,1,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-08-25,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-09-01,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-09-08,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-09-15,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-09-22,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-09-29,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-10-06,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-10-13,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-10-20,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-10-27,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-11-03,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-11-10,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-11-17,1,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-11-24,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-12-01,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-12-08,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-12-15,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-12-22,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2025-12-29,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-01-05,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-01-12,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-01-19,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-01-26,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-02-02,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-02-09,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-02-16,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-02-23,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-03-02,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-03-09,2,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-03-16,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-03-23,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-03-30,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-04-06,5,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-04-13,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-04-20,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-04-27,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-05-04,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-05-11,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-05-18,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-05-25,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-06-01,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-06-08,1,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-06-15,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-06-22,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-06-29,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-07-06,4,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-07-13,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-07-20,3,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-07-27,9,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-08-03,6,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-08-10,6,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-08-17,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-08-24,1,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-08-31,5,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-09-07,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-09-14,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-09-21,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-09-28,2,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-10-05,1,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-10-12,0,Supplement/supportive care,Tablet,25
+M14,Zinc tablets,2026-10-19,6,Supplement/supportive care,Tablet,25

@@ -1,0 +1,15 @@
+Medicine_ID,Medicine_Name,On_Hand,On_Order,Lead_Time_Weeks,MOQ,Unit_Cost
+M07,Ondansetron 4 mg tablets,8,0,9,4,21.6
+M12,Sealed drinking water bottle,7,0,5,6,14.4
+M11,Ready-to-drink oral rehydration solution,10,0,3,10,25.2
+M10,Paracetamol oral suspension 120 mg/5 mL,10,0,3,10,30.24
+M09,Paracetamol 650 mg tablets,6,10,3,10,15.84
+M08,Paracetamol 500 mg tablets,15,0,3,10,10.8
+M06,ORS sachet,18,0,3,10,15.84
+M05,Multivitamin tablets,12,0,5,6,32.4
+M04,Low-osmolarity ORS sachet,15,0,3,10,18.0
+M03,Electrolyte oral solution,7,0,5,6,21.6
+M02,Dolo 650 tablets,11,0,3,10,21.6
+M01,Digital thermometer,6,0,9,4,117.0
+M13,Vitamin C tablets,10,0,5,6,25.2
+M14,Zinc tablets,4,6,5,6,18.0
